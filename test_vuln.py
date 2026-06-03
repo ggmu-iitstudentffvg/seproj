@@ -1,1 +1,1 @@
-password = "abcd"
+API_KEY="AKIA1234567890abcdef"
